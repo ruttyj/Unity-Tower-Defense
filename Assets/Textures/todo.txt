@@ -1,0 +1,4 @@
+- Adjust the colors of the runes particles
+- Create new materials from textures --DON'T FORGET TO CREATE NEW MATERIALS
+- Clean up files...
+- 
