@@ -17,7 +17,7 @@
 
 ## Description
 
-A final project for Concordia's COMP-376 course, our team of 6 people created this procedurally-generated 3D tower defense game as for our final project. 
+A final project for Concordia's COMP-376 course, our team of 6 people created this procedurally-generated 3D tower defense game as for our final project. My contribution to this game was all of the procedural generation aspects as well as the rendering of the world.
 
 
 ![enter image description here](https://media.githubusercontent.com/media/ruttyj/unity-3d-comp-376-tower-defense/master/Screenshots/tower-defence-1.png)
